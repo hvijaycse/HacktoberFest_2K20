@@ -51,7 +51,7 @@ You can alternatively copy the URL by using the green “Clone or download” bu
 
 ## First
  - For beginner we have, we have created `Starter` directory there you can just add what you want like your first program you ever made, either in c , c++, JAVA, Python or any other if there is no directory of your programming laguage just create one and go on.
-Beginners can also correct documents this one, make changes in other programs, add new documentation, new ideas, just anything.
+Beginners can also correct documents like this one, make changes in other programs, add new documentation, new ideas, just anything.
 
  - For Intermediate guys, you also have `Intermediate` directory everything for beginner also applies to you, what extra is for you, we all required to learn data structure and other subjects, add there programs or problems for these topics, this way you learn about other topics and other learns about yours.
 
