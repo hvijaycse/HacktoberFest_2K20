@@ -8,4 +8,4 @@
 - Yash Thakkar [Github](https://github.com/yashthakkar1173), [Linkedin](https://www.linkedin.com/in/yash-thakkar-58a672133/)
 - Guneet Singh [Github](https://github.com/SethiGuneet), [Linkedin](https://www.linkedin.com/in/guneet-singh-b5bbb7152/)
 - Manoj Kumar [Github](https://github.com/manoj-kumar-vst-au4) [linkedin](https://www.linkedin.com/in/manoj-kumar-119883193/)
-- Harsimran Singh [Github](https://github.com/HarsimranVirk), [linkedin](https://www.linkedin.com/in/harsimran-virk-6a3465137/)
+- Harsimran Virk [Github](https://github.com/HarsimranVirk), [linkedin](https://www.linkedin.com/in/harsimran-virk-6a3465137/)
