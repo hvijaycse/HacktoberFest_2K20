@@ -11,3 +11,4 @@
 - Harsimran Singh [Github](https://github.com/HarsimranVirk), [linkedin](https://www.linkedin.com/in/harsimran-virk-6a3465137/)
 - Chetan Gaur [Github](https://github.com/chetangaur),[linkedin](https://www.linkedin.com/in/chetan-gaur/)
 - Saksham Taneja  [Github](https://github.com/sakshamtaneja21),[linkedin](https://www.linkedin.com/in/tanejasaksham/)
+- Akshat Mathur [Github](https://github.com/Akshat111999), [Linkedin](https://www.linkedin.com/in/akshat-mathur-7263b5170/)
