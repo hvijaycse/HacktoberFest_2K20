@@ -1,3 +1,5 @@
+## Important
+ While making a pull request in this repo, assign me as a reviwer in you pull request, this come handy to me.
 # HacktoberFest_2K19
 Happy Hacktoberfest! :octocat: this repo is for HacktoberFest 2019, either its your first time using Github, first PR or a professional, aim of this reporistory is to help everyone to contibute, make one more pr and get the perk of contibution [Free Tshirt and Stickers].
 
