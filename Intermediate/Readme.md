@@ -1,6 +1,6 @@
 # Code_of_Conduct
 
-> This directory is mainly for intermediate guys known to github , programming or technologies.
+> This directory is mainly for intermediate guys who are known to github , programming or technologies.
 
 > we have created directory for Docker , and Machine learning `i know only these`
 
