@@ -12,3 +12,4 @@
 - Chetan Gaur [Github](https://github.com/chetangaur),[linkedin](https://www.linkedin.com/in/chetan-gaur/)
 - Saksham Taneja  [Github](https://github.com/sakshamtaneja21),[linkedin](https://www.linkedin.com/in/tanejasaksham/)
 - Akshat Mathur [Github](https://github.com/Akshat111999), [Linkedin](https://www.linkedin.com/in/akshat-mathur-7263b5170/)
+- Alexander Myutel [Github](https://github.com/AlexUnderConstruction), [Linkedin](https://www.linkedin.com/in/AlexUnderConstruction/)
