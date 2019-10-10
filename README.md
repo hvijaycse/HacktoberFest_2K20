@@ -15,7 +15,7 @@ to motiviate everyone for start contributing to Open-Source by providing swags f
 
 - First thing first go to this [link](https://hacktoberfest.digitalocean.com/) and register yourself for hacktoberfest.
 
-- Now if you know about github and PR go on skip this step, otherwise visit these link [what is github](https://kinsta.com/knowledgebase/what-is-github/) and [how to create a pull request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
+- Now if you already know about github and PR go on skip this step, otherwise visit these link [what is github](https://kinsta.com/knowledgebase/what-is-github/) and [how to create a pull request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
 
 - So now you have registered and learned about github and pr this is what you need to do. You need to submit 4 pull request to any open repository, even yours own repo will count, after your 4 repo wait for 7 days, its the time duration introduced by github this year to validate your pullrequests.
 
