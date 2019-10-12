@@ -48,8 +48,6 @@ $python face_detection_videos.py --prototxt deploy.prototxt \--model dnn_model.c
 
 ![](https://github.com/kgautam01/DNN-based-Face-Detection/blob/master/ss1.png)
 
-![](https://github.com/kgautam01/DNN-based-Face-Detection/blob/master/ss2.png)
-
 ![](https://github.com/kgautam01/DNN-based-Face-Detection/blob/master/ss3.png)
 
 ![](https://github.com/kgautam01/DNN-based-Face-Detection/blob/master/ss4.png)
