@@ -14,4 +14,4 @@
 - Akshat Mathur [Github](https://github.com/Akshat111999), [Linkedin](https://www.linkedin.com/in/akshat-mathur-7263b5170/)
 - ASEEMMUHAMMAD A R [Github](https://github.com/iamaseem), [Linkedin](https://www.linkedin.com/in/aseemmuhammad-a-r-73536b169/)
 - Fakhrur Razi [Github](https://github.com/razinc), [Linkedin](https://www.linkedin.com/in/fakhrur-razi-mohamad-malek-582481152/)
-- Manish[Github](https://github.com/itzmanish), [Linkedin](https://www.linkedin.com/in/itzmanish/)
+- Manish [Github](https://github.com/itzmanish), [Linkedin](https://www.linkedin.com/in/itzmanish/)
