@@ -15,3 +15,5 @@
 - ASEEMMUHAMMAD A R [Github](https://github.com/iamaseem), [Linkedin](https://www.linkedin.com/in/aseemmuhammad-a-r-73536b169/)
 - Fakhrur Razi [Github](https://github.com/razinc), [Linkedin](https://www.linkedin.com/in/fakhrur-razi-mohamad-malek-582481152/)
 - Kuldeep Gautam [GitHub](https://github.com/kgautam01), [LinkedIn](https://www.linkedin.com/in/kgautam01/)
+- Kapil Gupta [Github](https://github.com/kapilbindal), [Linkedin](https://www.linkedin.com/in/kapilgupta15/)
+
