@@ -17,3 +17,5 @@
 - Manish [Github](https://github.com/itzmanish), [Linkedin](https://www.linkedin.com/in/itzmanish/)
 - Kuldeep Gautam [GitHub](https://github.com/kgautam01), [LinkedIn](https://www.linkedin.com/in/kgautam01/)
 - Kapil Gupta [Github](https://github.com/kapilbindal), [Linkedin](https://www.linkedin.com/in/kapilgupta15/)
+- Shreshta Sarkar [Github](https://github.com/dvlpsh), [Linkedin](https://www.linkedin.com/in/shreshta-sarkar-8a5979193/)
+
