@@ -4,8 +4,6 @@
 
 - https://github.com/zero-to-mastery/python-art
 
-- https://github.com/dsc-jiit-128/Hacktoberfest_2019
-
 - https://github.com/abhijitparida/hacktobermap
 
 - https://github.com/zero-to-mastery/Santafied
