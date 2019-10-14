@@ -45,7 +45,7 @@ You can alternatively copy the URL by using the green “Clone or download” bu
 
 5. Now that you have made changes run the commands
   >> `git add -A`<br>
-  >> `git commit -m "here come you message about the changes"`
+  >> `git commit -m "here come you message about the changes"`<br>
   >> `git push origin master`
 
 6. Now as you have learned above [how to create PR](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) go to you repository and make a pull request and wait for the maintianer to merge your pr. Here you go one pr done.
