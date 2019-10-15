@@ -20,3 +20,4 @@
 - Shreshta Sarkar [Github](https://github.com/dvlpsh), [Linkedin](https://www.linkedin.com/in/shreshta-sarkar-8a5979193/)
 - Somyajit Chakraborty [Github](https://github.com/Samsomyajit), [Linkedin](https://www.linkedin.com/in/somyajit-chakraborty-301844130/)
 - Prashant Singh [GitHub](https://github.com/singh08prashant), [LinkedIn](https://www.linkedin.com/in/prashant-singh-08/)
+- Kenny Gilyard [GitHub](https://github.com/gzine), [LinkedIn](https://www.linkedin.com/in/kenneth-gilyard/)
