@@ -1,17 +1,21 @@
 body {
-     background-color: #303030;
+     background-color: #303030da;
      padding: 0px;
      margin: 0px;
-     color: #E8E8E8;
+	 color: #E8E8E8;
+	 
+	 
 }
  
 h1,h3 {
 	text-align: center;
-	margin-top: 0px;
+	margin-top: 2px;
+
 }
 
 h1 {
 	margin-bottom: 15px;
+	font-size: 40px;
 }
 
 h3 {
