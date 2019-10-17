@@ -21,3 +21,4 @@
 - Somyajit Chakraborty [Github](https://github.com/Samsomyajit), [Linkedin](https://www.linkedin.com/in/somyajit-chakraborty-301844130/)
 - Prashant Singh [GitHub](https://github.com/singh08prashant), [LinkedIn](https://www.linkedin.com/in/prashant-singh-08/)
 - Kenny Gilyard [GitHub](https://github.com/gzine), [LinkedIn](https://www.linkedin.com/in/kenneth-gilyard/)
+- Ayushman Kumar [Github](https://github.com/ayushmankumar7), [LinkedIn](https://www.linkedin.com/in/ayushman-kumar-836a19190)
