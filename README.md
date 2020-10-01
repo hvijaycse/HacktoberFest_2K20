@@ -23,7 +23,7 @@ to motiviate everyone for start contributing to Open-Source by providing swags f
 - Also before submitting any pull request to any repository check issues of that repo, this year hacktoberfest is blacklisting repository that just allow user to add its name and other detail and make a pr count.
  Example - [This repo](https://github.com/Dhroov7/Hacktoberfest2019) and it's [issue](https://github.com/Dhroov7/Hacktoberfest2019/issues/270)
 
- # Code_Of_Conduct 
+ # Code Of Conduct 
  - Just like other reporistory
 
  1. Star this repo if you like ⭐ 
@@ -50,7 +50,7 @@ You can alternatively copy the URL by using the green “Clone or download” bu
 
 6. Now as you have learned above [how to create PR](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) go to you repository and make a pull request and wait for the maintianer to merge your pr. Here you go one pr done.
 
-# For_this_Repo
+# For this Repo
 
 ## First
  - For beginner we have, we have created `Starter` directory there you can just add what you want like your first program you ever made, either in c , c++, JAVA, Python or any other if there is no directory of your programming laguage just create one and go on.
