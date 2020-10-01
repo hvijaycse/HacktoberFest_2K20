@@ -68,4 +68,5 @@ Beginners can also correct documents like this one, make changes in other progra
 > I have also created a [list](repository.md) of repositories for hacktoberfest 2019
 > I found these repository good for First pr and organization wise, have a look at them and if you find a new repo for hacktoberfest it will be great if you can add this to the that file
 
-# Best of Luck for Hacktoberfest 
+# Best of Luck for Hacktoberfest and Your whole journey
+> Why are you still here. Go and contribute...
