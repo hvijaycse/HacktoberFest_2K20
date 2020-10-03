@@ -1,7 +1,7 @@
 # HacktoberFest_2K19
 Happy Hacktoberfest! :octocat: this repo is for HacktoberFest 2019, either its your first time using Github, first PR or a professional, aim of this reporistory is to help everyone to contibute, make one more pr and get the perk of contibution [Free Tshirt and Stickers].
 
-# Hall of Fame 🔥
+# Hall of Fame 🔥⭐🔥
 Check out the [Hall of Fame](https://hvijaycse.github.io/HacktoberFest_2K19/Hall_of_fame) for a list of contributors with a minimum of one commit with their gravatar. To know more about a contributor, click on the gravatar to go to their github profile.
 
 # Hacktoberfest
