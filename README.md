@@ -50,7 +50,7 @@ You can alternatively copy the URL by using the green “Clone or download” bu
 
 6. Now as you have learned above [how to create PR](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) go to you repository and make a pull request and wait for the maintianer to merge your pr. Here you go one pr done.
 
-# For this Repo
+# For this Repository
 
 ## First
  - For beginner we have, we have created `Starter` directory there you can just add what you want like your first program you ever made, either in c , c++, JAVA, Python or any other if there is no directory of your programming laguage just create one and go on.
