@@ -36,7 +36,7 @@ to motiviate everyone for start contributing to Open-Source by providing swags f
 We’ll use the git clone command along with the URL that points to your fork of the repository.
 This URL will be similar to the URL above, except now it will end with .git. In the example above, the URL will look like this:
 
->https://github.com/your-username/HacktoberFest_2K19.git
+>https://github.com/your-username/HacktoberFest_2K20.git
 You can alternatively copy the URL by using the green “Clone or download” button from your repository page that you just forked from the original repository page. Once you click the button, you’ll be able to copy the URL by clicking the binder button next to the URL:
 
 >![](Images/Clone.JPG)
