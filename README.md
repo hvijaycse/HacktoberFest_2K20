@@ -1,5 +1,5 @@
 # HacktoberFest_2K20
-Happy Hacktoberfest! :octocat: this repo is for HacktoberFest 2019, either its your first time using Github, first PR or a professional, aim of this reporistory is to help everyone to contibute, make one more pr and get the perk of contibution [Free Tshirt and Stickers].
+Happy Hacktoberfest! :octocat: this repo is for HacktoberFest 2020, either its your first time using Github, first PR or a professional, aim of this reporistory is to help everyone to contribute, make one more PR and get the perk of contribution [Free Tshirt and Stickers].
 
 # Hall of Fame 🔥⭐🔥
 Check out the [Hall of Fame](https://hvijaycse.github.io/HacktoberFest_2K20/Hall_of_fame) for a list of contributors with a minimum of one commit with their gravatar. To know more about a contributor, click on the gravatar to go to their github profile.
@@ -24,7 +24,7 @@ to motiviate everyone for start contributing to Open-Source by providing swags f
  Example - [This repo](https://github.com/Dhroov7/Hacktoberfest2019) and it's [issue](https://github.com/Dhroov7/Hacktoberfest2019/issues/270)
 
  # Code Of Conduct 
- - Just like other reporistory
+ - Just like other repository
 
  1. Star this repo if you like ⭐ 
  

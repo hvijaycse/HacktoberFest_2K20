@@ -22,3 +22,4 @@
 - Prashant Singh [GitHub](https://github.com/singh08prashant), [LinkedIn](https://www.linkedin.com/in/prashant-singh-08/)
 - Kenny Gilyard [GitHub](https://github.com/gzine), [LinkedIn](https://www.linkedin.com/in/kenneth-gilyard/)
 - Ayushman Kumar [Github](https://github.com/ayushmankumar7), [LinkedIn](https://www.linkedin.com/in/ayushman-kumar-836a19190)
+- Bhaskar B Sarkar [Github](https://github.com/bhaskar-29), [LinkedIn](https://www.linkedin.com/in/bhaskar-b-sarkar/)
