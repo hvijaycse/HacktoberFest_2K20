@@ -24,7 +24,7 @@ to motiviate everyone for start contributing to Open-Source by providing swags f
  Example - [This repo](https://github.com/Dhroov7/Hacktoberfest2019) and it's [issue](https://github.com/Dhroov7/Hacktoberfest2019/issues/270)
 
  # Code Of Conduct 
- - Just like other reporistory
+ - Just like other repository
 
  1. Star this repo if you like ⭐ 
  
