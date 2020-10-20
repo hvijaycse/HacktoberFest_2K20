@@ -1,8 +1,8 @@
-# HacktoberFest_2K19
-Happy Hacktoberfest! :octocat: this repo is for HacktoberFest 2019, either its your first time using Github, first PR or a professional, aim of this reporistory is to help everyone to contibute, make one more pr and get the perk of contibution [Free Tshirt and Stickers].
+# HacktoberFest_2K20
+Happy Hacktoberfest! :octocat: this repo is for HacktoberFest 2020, either its your first time using Github, first PR or a professional, aim of this reporistory is to help everyone to contribute, make one more PR and get the perk of contribution [Free Tshirt and Stickers].
 
 # Hall of Fame 🔥⭐🔥
-Check out the [Hall of Fame](https://hvijaycse.github.io/HacktoberFest_2K19/Hall_of_fame) for a list of contributors with a minimum of one commit with their gravatar. To know more about a contributor, click on the gravatar to go to their github profile.
+Check out the [Hall of Fame](https://hvijaycse.github.io/HacktoberFest_2K20/Hall_of_fame) for a list of contributors with a minimum of one commit with their gravatar. To know more about a contributor, click on the gravatar to go to their github profile.
 
 # Hacktoberfest
 
@@ -24,7 +24,7 @@ to motiviate everyone for start contributing to Open-Source by providing swags f
  Example - [This repo](https://github.com/Dhroov7/Hacktoberfest2019) and it's [issue](https://github.com/Dhroov7/Hacktoberfest2019/issues/270)
 
  # Code Of Conduct 
- - Just like other reporistory
+ - Just like other repository
 
  1. Star this repo if you like ⭐ 
  
@@ -36,7 +36,7 @@ to motiviate everyone for start contributing to Open-Source by providing swags f
 We’ll use the git clone command along with the URL that points to your fork of the repository.
 This URL will be similar to the URL above, except now it will end with .git. In the example above, the URL will look like this:
 
->https://github.com/your-username/HacktoberFest_2K19.git
+>https://github.com/your-username/HacktoberFest_2K20.git
 You can alternatively copy the URL by using the green “Clone or download” button from your repository page that you just forked from the original repository page. Once you click the button, you’ll be able to copy the URL by clicking the binder button next to the URL:
 
 >![](Images/Clone.JPG)
@@ -50,7 +50,7 @@ You can alternatively copy the URL by using the green “Clone or download” bu
 
 6. Now as you have learned above [how to create PR](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) go to you repository and make a pull request and wait for the maintianer to merge your pr. Here you go one pr done.
 
-# For this Repo
+# For this Repository
 
 ## First
  - For beginner we have, we have created `Starter` directory there you can just add what you want like your first program you ever made, either in c , c++, JAVA, Python or any other if there is no directory of your programming laguage just create one and go on.
