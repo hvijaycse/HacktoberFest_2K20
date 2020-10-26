@@ -1,3 +1,2 @@
 # Machine Learning
-
-This directory contain ML Jupyter Notebooks and algos 
+ This directory contain ML Notebooks and algos
